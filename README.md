@@ -39,7 +39,7 @@ Clique no video abaixo para demonstração da aplicação web com React JS:
 <p align='center'>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=6KvS6Zo4CKY
 " target="_blank"><img src="http://img.youtube.com/vi/6KvS6Zo4CKY/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="540" height="380" /></a>
+alt="IMAGE ALT TEXT HERE" width="640" height="480" /></a>
 </p>  
 
 <!-- <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
