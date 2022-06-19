@@ -27,12 +27,12 @@ alt="IMAGE ALT TEXT HERE" width="540" height="380" /></a>
 Imagens do aplicativo web:<br/>
 Clique na imagem para ampliar.
 <p align='center'>
-  <img height="400" src='ReadmeImages/web1.png'>
+  <img height="420" src='ReadmeImages/web1.png'>
 </p>
 
   Web responsivo:
 <p align='center'>
-  <img  height="400" src='ReadmeImages/web2.png'>
+  <img  height="420" src='ReadmeImages/web2.png'>
 </p>
 
 Clique no video abaixo para demonstração da aplicação web com React JS:
