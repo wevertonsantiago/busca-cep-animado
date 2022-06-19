@@ -37,11 +37,10 @@ Clique na imagem para ampliar.
 
 Clique no video abaixo para demonstração da aplicação web com React JS:
 <p align='center'>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=GuNGqCHPNq0
-" target="_blank"><img src="http://img.youtube.com/vi/GuNGqCHPNq0/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=6KvS6Zo4CKY
+" target="_blank"><img src="http://img.youtube.com/vi/6KvS6Zo4CKY/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="540" height="380" /></a>
 </p>  
-
 
 <!-- <a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
 " target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
