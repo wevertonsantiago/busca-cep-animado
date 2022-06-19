@@ -8,14 +8,14 @@ Podem ser usado por empresas de transporte e entregas de produtos para confirmar
 
 # React Native:
 
-Imagens do aplicativo mobile:
+Imagens do aplicativo mobile:<br/>
 Clique na imagem para ampliar.
 <p align='center'>
   <img width='300' height='600' src='ReadmeImages/mob1.png'>
   <img width='300' height='600' src='ReadmeImages/mob2.png'>
 </p>  
 
-Clique no video abaixo do Youtube para demonstração do aplicativo com React Native:
+Clique no video abaixo para demonstração do aplicativo mobile com React Native:
 <p align='center'>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=GuNGqCHPNq0
 " target="_blank"><img src="http://img.youtube.com/vi/GuNGqCHPNq0/0.jpg" 
@@ -24,7 +24,7 @@ alt="IMAGE ALT TEXT HERE" width="540" height="380" /></a>
 
 # React JS:
 
-Imagens do aplicativo web:
+Imagens do aplicativo web:<br/>
 Clique na imagem para ampliar.
 <p align='center'>
   <img height="460" src='ReadmeImages/web1.png'>
@@ -35,7 +35,7 @@ Clique na imagem para ampliar.
   <img  height="460" src='ReadmeImages/web2.png'>
 </p>
 
-Clique no video abaixo do Youtube para demonstração do aplicativo com React JS
+Clique no video abaixo para demonstração da aplicação web com React JS:
 <p align='center'>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=GuNGqCHPNq0
 " target="_blank"><img src="http://img.youtube.com/vi/GuNGqCHPNq0/0.jpg" 
